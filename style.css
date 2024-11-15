@@ -34,3 +34,7 @@
   .cell h1 {
     font-size: 20vh;
   }
+  #winner {
+    color: white;
+    font-size: 10vh;
+  }
